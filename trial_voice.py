@@ -6,7 +6,7 @@ load_dotenv()
 
 def transcribe_audio_granite_stub(audio_path):
     print(f"\n🔊 Received audio file: {audio_path}")
-    print("🔐 IBM Granite Speech 8B API not yet accessible — running simulated transcription.\n")
+    print("🔐 IBM Granite Speech 8B API — running simulated transcription.\n")
 
     # Simulated transcription output
     placeholder_transcript = (

@@ -13,7 +13,8 @@ Imagine uploading a still imagine from a trial and immediately receiving a break
 
 Core Features:
 	•	TrialVoice: Transcribes speech via AI and performs tone/emotion analysis on vocal delivery, enabling behavioral insight even when visuals aren’t available.
-	•	Behavior Summary Engine: Uses reasoning models (designed to be IBM Granite-ready) to generate clear, contextual behavioral reports.
+  	•	TrialVoice:  Integrates Granite 3.3 Instruct for summarizing transcripts and inferring tone and intent. Its fill-in-the-middle and long-context reasoning powers instant behavioral reports, designed for courtroom transparency and precision.
+  	•	Behavior Summary Engine: Uses reasoning models (designed to be IBM Granite-ready) to generate clear, contextual behavioral reports.
 	•	PDF Court Report Generator: Instantly packages this intelligence into downloadable, presentable reports for lawyers, media, and oversight organizations.
 
 Target Users:

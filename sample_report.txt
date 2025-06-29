@@ -1,13 +1,1 @@
-Analyzing uploaded image: /mnt/data/94327E14-C42A-4230-AFF5-5308CD2A222E.jpeg
-IBM Granite Vision API:  running inference.
 
-Simulated Emotion Scores:
- - Angry: 5.10%
- - Disgust: 3.20%
- - Fear: 2.50%
- - Happy: 1.30%
- - Sad: 9.00%
- - Surprise: 0.50%
- - Neutral: 78.40%
-
-Dominant Emotion: Neutral

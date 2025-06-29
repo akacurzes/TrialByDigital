@@ -12,7 +12,6 @@ Trial By Digital is a pioneering AI-powered platform that captures, analyzes, an
 Imagine uploading a still imagine from a trial and immediately receiving a breakdown of the subject’s emotional state. Or feeding a .wav file of courtroom dialogue and instantly getting a transcript and an inferred emotional profile of the speaker. Now imagine this system scaled to operate live, streaming analysis to legal teams, journalists, or the public. That’s Trial By Digital.
 
 Core Features:
-	•	TrialFace: Analyzes facial expressions from video or still images to identify real-time emotional shifts (anger, fear, sadness, contempt, etc.).
 	•	TrialVoice: Transcribes speech via AI and performs tone/emotion analysis on vocal delivery, enabling behavioral insight even when visuals aren’t available.
 	•	Behavior Summary Engine: Uses reasoning models (designed to be IBM Granite-ready) to generate clear, contextual behavioral reports.
 	•	PDF Court Report Generator: Instantly packages this intelligence into downloadable, presentable reports for lawyers, media, and oversight organizations.
@@ -22,7 +21,7 @@ Target Users:
 	•	Journalists (enhanced coverage + visual data)
 	•	Civil rights observers (accountability tools)
 	•	Investigators & analysts (pattern recognition across trials)
-	•	Artists & creators (translating courtroom emotion into interactive 			exhibits)
+	•	Artists & creators (translating courtroom emotion into interactive exhibits)
 
 AI Usage:
 Trial By Digital is a Granite-compatible multimodal AI system. The architecture is built to directly plug into IBM’s Granite Speech 8B and Instruct models for next-gen accuracy, enterprise compliance, and scalability. This platform uses AI not just to interpret data, but to document and preserve emotional reality in an evidentiary form.

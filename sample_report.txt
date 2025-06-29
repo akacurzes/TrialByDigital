@@ -1,1 +1,21 @@
+Trial By Digital: Voice Behavior Report
 
+Generated: June 12, 2025 – 4:26 PM
+
+Courtroom Transcript (TrialVoice)
+
+“Your honor, the defense would like to request a recess until new evidence can be reviewed. This is critical to ensuring a fair trial for the defendant.”
+
+⸻
+
+Tone & Behavioral Insight (Granite Instruct)
+	•	Overall Tone: Calm, Assertive
+	•	Speaker Intent: Delay proceedings for fairness
+	•	Emotional Signals: Composure, Urgency, Professionalism
+
+⸻
+
+Behavioral Summary
+
+The speaker is respectfully requesting a recess to ensure all evidence is reviewed, signaling a calm but assertive tone.
+The reasoning aligns with procedural fairness, suggesting professional intent rather than evasion.

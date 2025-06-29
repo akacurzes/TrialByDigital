@@ -1,4 +1,4 @@
-# TrialByDigital
+# Trial By Digital
 Real-Time Courtroom Behavioral Intelligence
 
 Problem & Solution Statement for Trial By Digital
